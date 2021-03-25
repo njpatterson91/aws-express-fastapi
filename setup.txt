@@ -1,0 +1,1 @@
+you need to get the access key and the secret from iam on aws as well as your bucket name
